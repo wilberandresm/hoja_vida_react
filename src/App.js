@@ -89,19 +89,19 @@ function App() {
           <div className="lenguajes">
             <div className="contenedor-lenguajes">
               <div className="img-leng">
-                  <img  src={python} alt="pyhton"> </img>
+                  <img  src={python} alt="pyhton"/> 
               </div>
               <div className="img-leng">
-                  <img className="img-leng" src={cplus} alt="c++"> </img>
+                  <img className="img-leng" src={cplus} alt="c++"/>
               </div>
               <div className="img-leng">
-                  <img className="img-leng" src={html} alt=""> </img>
+                  <img className="img-leng" src={html} alt=""/>
               </div>
               <div className="img-leng">
-                  <img className="img-leng" src={node} alt=""> </img>
+                  <img className="img-leng" src={node} alt=""/>
               </div>
               <div className="img-leng">
-                  <img className="img-leng" src={mongo} alt=""> </img>
+                  <img className="img-leng" src={mongo} alt=""/> 
               </div>
               
             
@@ -115,7 +115,7 @@ function App() {
             <div className="contenedor-proyectos"> 
               <div className="container-slider">
                 <a href="https://github.com/wilberandresm/api-restful" target="_blank" rel="noopener noreferrer" >
-                  <img className="imagen-slider" src={instagram} alt=""> </img>
+                  <img className="imagen-slider" src={instagram} alt=""/>
                 
                 <div className="overlay">
                   <div className="texto-overlay">
@@ -128,7 +128,7 @@ function App() {
 
               <div className="container-slider">
                   <a href="https://github.com/wilberandresm/simulated-annealing" target="_blank" rel="noopener noreferrer" >
-                    <img className="imagen-slider" src={recocido} alt=""> </img>
+                    <img className="imagen-slider" src={recocido} alt=""/>
                   
                   <div className="overlay">
                     <div className="texto-overlay">
@@ -155,10 +155,10 @@ function App() {
       <div className="parte4">
         <div className="logos-estudios">
           <div className="logoinem">
-            <img src={inem} alt=""> </img>
+            <img src={inem} alt=""/> 
           </div>
           <div className="logoutb">
-          <img src={utb} alt=""> </img>
+          <img src={utb} alt=""/>
           </div>
          </div>
         <div className="misestudios" >
@@ -193,7 +193,7 @@ function App() {
         <div className="muestra">
           <div className="instagram">
               <a href="https://www.instagram.com/wilberandresm/?hl=es-la">
-                <img src={perfilinsta} alt=""> </img>
+                <img src={perfilinsta} alt=""/>
               </a>
 
           </div>
@@ -220,20 +220,20 @@ function App() {
       <div className="logos">
         <div className="logo" id="github">
           <a href="https://github.com/wilberandresm" target="_blank" rel="noopener noreferrer" >
-            <img src={github} alt=""> </img>
+            <img src={github} alt=""/> 
           </a>
 
         </div>
         <div className="logo" id="github">
             <a href="https://www.facebook.com/wilber98" target="_blank" rel="noopener noreferrer" >
-              <img src={facebook} alt=""> </img>
+              <img src={facebook} alt=""/>
             </a>
   
         </div>
         <div className="logo" id="github">
             <a href="https://www.instagram.com/wilberandresm/?hl=es-la" target="_blank" rel="noopener noreferrer" >
               <div>
-              <img src={instagramico} alt=""> </img>
+              <img src={instagramico} alt=""/>
               </div>
             
             </a>
